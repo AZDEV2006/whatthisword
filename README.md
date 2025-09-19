@@ -1,3 +1,11 @@
+# What's The Word?
+  
+![GitHub repo size](https://img.shields.io/github/repo-size/AZDEV2006/whatthisword?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/AZDEV2006/whatthisword?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/AZDEV2006/whatthisword?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/AZDEV2006/whatthisword?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/AZDEV2006/whatthisword?style=for-the-badge)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
